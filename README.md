@@ -60,7 +60,7 @@ npm install
 
 
 
-3. Start Redis (use Docker or install locally):
+3. Start Redis (use Docker or install locally)
 
 ```
 
@@ -68,7 +68,7 @@ docker-compose up -d
 
 ```
 
-4. Start the development servers:
+4. Start the development servers
 
 ```
 
@@ -76,9 +76,7 @@ npm run dev
 
 ```
 
-5. Open the app in your browser:
-
-
+5. Open the app in your browser
 
 [http://localhost:5173](http://localhost:5173)
 
