@@ -50,14 +50,11 @@ apps/
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Install dependencies:
 
-
-
 npm install
-
 
 
 3. Start Redis (use Docker or install locally)
